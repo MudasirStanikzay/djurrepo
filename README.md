@@ -1,4 +1,0 @@
-duck
-mouse
-cat
-dog
